@@ -1,4 +1,0 @@
-DYSignalrDemo
-=============
-
-DYSignalrDemo
